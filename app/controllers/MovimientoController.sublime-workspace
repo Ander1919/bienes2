@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"return",
+				"m_returnstatus()"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"u",
+				"UPDATE"
+			],
+			[
+				"REQ",
+				"reqmateriales"
+			],
+			[
+				"to",
+				"tot0"
+			],
+			[
+				"re",
+				"resul1"
+			],
+			[
+				"ech",
+				"echoh"
+			],
+			[
+				"nro",
+				"nroreq"
+			],
+			[
+				"S",
+				"sql0"
+			],
+			[
+				"ECHO",
+				"echo()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 128.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/views/modules/inicio.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/models/ConexionModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/public/select.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/models/EnlacesModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/views/template.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/controllers/EnlacesController.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/controllers/EnlacesController.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/modules/login.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/views/modules/login.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/modules/inicio.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/public/select1.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/public/select.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/public/select1.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/public/index.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/index.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/public/index.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/controllers/UsuariosController.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/models/TipoBienModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/controllers/AjaxController.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/models/GerenciaModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/models/UsuariosModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/views/modules/bienes/desvinculacion.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/raprobacion.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/controllers/SelectController.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/prueba/visitante/tvxunidad.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/conex.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes2/app/controllers/TipoIncorporacionController.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/sib/app/models/ConexionModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/ocompra.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/oservicios.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/menu.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/oservicio.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/cservicios.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/prueba/visitante/activas.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/prueba/visitante/guardar.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/prueba/visitante/guardar_foto.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/modules/bienes/incorporacion.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/modules/bienes/deshabilitar.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/controllers/MovimientoController.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/sib/app/models/MovimientoModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/modules/inicio.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/public/index.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/template.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/controllers/EnlacesController.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/modules/login.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/models/ConexionModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/models/EnlacesModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/index.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/template.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/models/EnlacesModel.php",
+		"/var/www/html/Sistinvbienes/sib/app/views/index.php",
+		"/var/www/html/Sistinvbienes/sib/public/index.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/index.php",
+		"/home/mparedes/Descargas/index (1).php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/public/select.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/public/select1.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/controllers/UsuariosController.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/modules/index.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/models/TipoIncorporacionModel.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/controllers/SelectController.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/inc/navbar.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/inc/footer.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/sib/app/views/modules/bienes/asignacion.php",
+		"/var/www/html/Sistinvbienes/sib/app/models/ConexionModel.php",
+		"/var/www/html/curso/video_2/index.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/visitantes/conex.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/bienes/conex.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/inc/navbar.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/template.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/index.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/modules/login.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/modules/inicio.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/modules/ingresar.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/modules/usuarios.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/modules/usuarios/perfil.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/modules/usuarios/create.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/models/EnlacesModel.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/controllers/UsuariosController.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/models/ConexionModel.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/inc/footer.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/prueba/visitante/conex.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/models/BienesModel.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/controllers/AjaxController.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/inc/navbar.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/controllers/AjaxController.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/views/modules/bienes/asignacion.php",
+		"/var/www/html/SISTBIENESCONAP/sib/app/controllers/MovimientosController.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/models/UsuariosModel.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/models/ConexionModel.php",
+		"/home/mparedes/Documentos/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/modules/usuarios.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/oaprobacion.php",
+		"/media/mparedes/OTIC/Respaldo ULTIMO SISTEMA INVENTARIO 28 MARZO/sib/app/views/inc/navbar.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/guardar.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=sistemas/suministros/pendiente.php",
+		"/home/mparedes/Documentos/sistema de suministro/suministros/ocompra.php",
+		"/home/mparedes/Documentos/sistema de suministro/suministros/rservicios.php",
+		"/home/mparedes/Documentos/sistema de suministro/suministros/menu.php",
+		"/home/mparedes/Documentos/sistema de suministro/suministros/pendiente.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/ocompra.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/oaprobacion.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/raprobacion.php",
+		"/home/mparedes/Escritorio/Compartidas 10_0_0_140.desktop",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/pendiente.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/guardar.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/cmateriales.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/DetalleConsulta.php",
+		"/run/user/1001/gvfs/smb-share",
+		"/home/mparedes/Escritorio/Compartidas 172_16_1_140.desktop",
+		"/home/mparedes/Documentos/sistema de suministro/suministros/raprobacion.php",
+		"/home/mparedes/Documentos/sistema de suministro/suministros/guardar.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/conex.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/dmateriales.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/detreq.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/rmateriales.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/rservicios.php",
+		"/home/mparedes/Documentos/sistema de suministro/suministros/rmateriales.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/modmateriales.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/menu.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/bienvenido.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/formatos/requisicionMateriales.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/session.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/encabezado.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/ingreso.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/srcc/conexrdi.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/srcc/conex.php",
+		"/run/user/1001/gvfs/smb-share:server=10.0.0.140,share=compartidos/suministros/requiere.php",
+		"/run/user/1001/gvfs/smb-share:server=172.16.1.140,share=sistemas/prueba/requisicion/requisicion.php",
+		"/run/user/1001/gvfs/smb-share:server=172.16.1.140,share=sistemas/suministros/prueba.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MovimientoController.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 309.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"procesar"
+			]
+		],
+		"width": 567.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
